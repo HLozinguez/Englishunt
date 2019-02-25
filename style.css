@@ -13,8 +13,15 @@ footer {
   color : white;
   text-align: :center;
 }
-a {
-  margin-left: 400px;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+} 
+
+li a {
+  display: block;
 }
 
 .vertical-menu a {
